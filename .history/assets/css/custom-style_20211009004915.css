@@ -1,0 +1,11 @@
+﻿.menu.sf-arrows .sf-with-ul::after{
+	font-family: 'molla';
+    content: '';
+    position: absolute;
+    right: 0;
+    top: 50%;
+    display: block;
+    font-size: 1rem;
+    line-height: 1;
+    margin-top: -.5rem;
+}
